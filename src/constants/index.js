@@ -52,6 +52,14 @@ const technologies = [
     icon: Img.typescript,
   },
   {
+    name: "Python",
+    icon: Img.python,
+  },
+  {
+    name: "C#",
+    icon: Img.csharp,
+  },
+  {
     name: "SCSS",
     icon: Img.scss,
   },
@@ -116,6 +124,10 @@ const technologies = [
     icon: Img.asp,
   },
   {
+    name: "SQL Server",
+    icon: Img.sqlserver,
+  },
+  {
     name: "MongoDB",
     icon: Img.mongodb,
   },
@@ -130,6 +142,10 @@ const technologies = [
   {
     name: "PostgreSQL",
     icon: Img.postgresql,
+  },
+  {
+    name: "Cosmos DB",
+    icon: Img.cosmosdb,
   },
   {
     name: "GraphQL",
@@ -175,6 +191,10 @@ const tools = [
     icon: Img.postman,
   },
   {
+    name: "Microsoft Azure",
+    icon: Img.azure,
+  },
+  {
     name: "AWS Lambda",
     icon: Img.lambda,
   },
@@ -206,6 +226,10 @@ const tools = [
     name: "Jira",
     icon: Img.jira,
   },
+  {
+    name: "Linux",
+    icon: Img.linux,
+  },
 ];
 
 const experiences = [
@@ -214,7 +238,7 @@ const experiences = [
     company_name: "Salesforce",
     icon: Img.salesforce,
     iconBg: "white",
-    date: "May 2022 - Present",
+    date: "May 2022 - September 2024",
     points: [
       "Collaborated closely with cross-functional teams to conceptualize, design, and develop web applications utilizing a fullstack approach.",
       "Crafted user-friendly and responsive front-end interfaces using a combination of React, MUI, Typescript, Next.js, and Styled Components, ensuring seamless cross-browser compatibility and optimal performance.",

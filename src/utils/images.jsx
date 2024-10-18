@@ -35,6 +35,12 @@ import reacttest from '../assets/tech/reacttest.png'
 import restapi from '../assets/tech/restapi.png'
 import typescript from '../assets/tech/typescript.png'
 import vue from '../assets/tech/vue.png'
+import linux from '../assets/tech/linux.png'
+import cosmosdb from '../assets/tech/cosmosdb.png'
+import sqlserver from '../assets/tech/sqlserver.png'
+import python from '../assets/tech/python.png'
+import csharp from '../assets/tech/csharp.png'
+import azure from '../assets/tech/azure.png'
 
 import chatgpt from '../assets/tools/ChatGPT.png'
 import mongodbcompass from '../assets/tools/mongodbCompass.png'
@@ -102,6 +108,12 @@ const Img = {
     reacttest : reacttest,
     jest : jest,
     cypress : cypress,
+    linux : linux,
+    cosmosdb : cosmosdb,
+    sqlserver : sqlserver,
+    python : python,
+    csharp : csharp,
+    azure : azure,
     //tools
     chatgpt : chatgpt,
     mongodbcompass : mongodbcompass,
